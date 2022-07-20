@@ -1,0 +1,49 @@
+#img1 {
+    width: 75%;
+    position: absolute;
+    background-image: url(capa.png);
+}
+
+#img2 {
+    width: 24%;
+    position: absolute;
+    right: 00px;
+}
+
+#perfil1 {
+    width: 24%;
+    position: absolute;
+    right: 0;
+    top:    350px;
+    font-size: 30px;
+}
+
+#perfil2 {
+    width: 24%;
+    position: absolute;
+    right: 00px;
+    top: 400px;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.caixas {
+    color: white;
+    display: inline-block;
+    line-height: 50px;
+    text-align: center;
+}
+
+.width-and-height {
+    height: 50px;
+    width: 350px;
+  }
+  
+.margin {
+    margin: 10px;
+  }
+
+div:hover {
+    border: 5px solid #ae11f7bb;
+}
